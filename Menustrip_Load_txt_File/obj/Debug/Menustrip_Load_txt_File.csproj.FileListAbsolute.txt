@@ -1,0 +1,9 @@
+E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\bin\Debug\Menustrip_Load_txt_File.exe.config
+E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\bin\Debug\Menustrip_Load_txt_File.exe
+E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\bin\Debug\Menustrip_Load_txt_File.pdb
+E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.csprojResolveAssemblyReference.cache
+E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.Form1.resources
+E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.Properties.Resources.resources
+E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.csproj.GenerateResource.Cache
+E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.exe
+E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.pdb
