@@ -7,3 +7,12 @@ E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip
 E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.csproj.GenerateResource.Cache
 E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.exe
 E:\Lesson\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.pdb
+E:\Courses\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\bin\Debug\Menustrip_Load_txt_File.exe.config
+E:\Courses\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.exe
+E:\Courses\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.pdb
+E:\Courses\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\bin\Debug\Menustrip_Load_txt_File.exe
+E:\Courses\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\bin\Debug\Menustrip_Load_txt_File.pdb
+E:\Courses\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.csprojResolveAssemblyReference.cache
+E:\Courses\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.Form1.resources
+E:\Courses\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.Properties.Resources.resources
+E:\Courses\C#\Menustrip_Load_txt_File\Menustrip_Load_txt_File\obj\Debug\Menustrip_Load_txt_File.csproj.GenerateResource.Cache
